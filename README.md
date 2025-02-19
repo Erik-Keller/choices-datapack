@@ -1,1 +1,1 @@
-# choices-datapack
+# Choices Datapack
